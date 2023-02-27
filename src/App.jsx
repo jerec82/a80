@@ -38,15 +38,13 @@ function App() {
             key: '2',
             children:
             <>
+
             </>
           },
 
         ]}>
-      
-
+          
       </Tabs>
-
-
     </div>
   );
 }
